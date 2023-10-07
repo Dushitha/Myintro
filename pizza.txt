@@ -1,0 +1,7 @@
+bread
+cheese
+sauce
+mushroom
+capsicum
+onion 
+tomato
